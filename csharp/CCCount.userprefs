@@ -1,0 +1,62 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cccount/Counter.cs">
+    <Files>
+      <File FileName="cccount/CLI.cs" Line="70" Column="5" />
+      <File FileName="cccount/Counter.cs" Line="11" Column="15" />
+      <File FileName="cccount/Utils.cs" Line="44" Column="1" />
+      <File FileName="cccount/ITextProcessor.cs" Line="6" Column="19" />
+      <File FileName="cccountTest/CCCountTest.cs" Line="11" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="CCCount" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="Counter.cs" selected="True" />
+          </Node>
+          <Node name="CCCountTest" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True">
+          <Node name="CCCount" expanded="True">
+            <Node name="CCCount" expanded="True">
+              <Node name="CCCount.CLI" expanded="True" />
+              <Node name="CCCount.Counter" expanded="True" selected="True" />
+            </Node>
+          </Node>
+          <Node name="CCCountTest" expanded="True">
+            <Node name="cccountTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CCCount>
+    <MonoDevelop.Ide.CustomExecutionModes ctype="CustomExecutionModes">
+      <Data Name="Mono Soft Debugger (Custom)" Id="83acb85d-a6e6-49d8-8f40-9b5b422fce31" ModeId="Mono Soft Debugger">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments="1000.txt" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.CCCount>
+</Properties>
